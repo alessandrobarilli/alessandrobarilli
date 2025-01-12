@@ -5,6 +5,14 @@
 🎓 **M.Sc. in Mathematical Engineering** (110/110 cum Laude) - *Politecnico di Torino, Italy*<br/>
 🎓 **B.Sc. in Mathematical Engineering** (110/110) - *Politecnico di Torino, Italy*<br/>
 
+<br/>
+
+## 🏗️ Featured Projects  
+### 🚴‍♂️ Bike-Fit App
+A Streamlit-based app leveraging OpenCV to analyze bike riding posture from video recordings.
+
+### 🏃 Running Form Analyzer
+A Python-based tool using Computer Vision and Pose Estimation to analyze running strides and improve performance.
 
 
 
