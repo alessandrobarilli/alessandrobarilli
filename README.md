@@ -1,9 +1,9 @@
 ## Hi, I'm Alessandro 👋
 
-📫 Working as a **Data Scientist** at Swiss Re
-🛠️ Tech stack: **python**, **Spark**, **SQL**, **PyTorch**, **C**, **C++**
-🎓 **M.Sc. in Mathematical Engineering** (110/110 cum Laude) - *Politecnico di Torino, Italy*
-🎓 **B.Sc. in Mathematical Engineering** (110/110) - *Politecnico di Torino, Italy*  
+📫 Working as a **Data Scientist** at Swiss Re<br/>
+🛠️ Tech stack: **python**, **Spark**, **SQL**, **PyTorch**, **C**, **C++**<br/>
+🎓 **M.Sc. in Mathematical Engineering** (110/110 cum Laude) - *Politecnico di Torino, Italy*<br/>
+🎓 **B.Sc. in Mathematical Engineering** (110/110) - *Politecnico di Torino, Italy*<br/>
 
 
 
