@@ -2,8 +2,8 @@
 
 📫 Working as a **Data Scientist** at Swiss Re<br/>
 🛠️ Tech stack: **python**, **Spark**, **SQL**, **PyTorch**, **C**, **C++**<br/>
-🎓 **M.Sc. in Mathematical Engineering** (110/110 cum Laude) - *Politecnico di Torino, Italy*<br/>
-🎓 **B.Sc. in Mathematical Engineering** (110/110) - *Politecnico di Torino, Italy*<br/>
+🎓 **M.Sc. in Mathematical Engineering** - *Politecnico di Torino, Italy*<br/>
+🎓 **B.Sc. in Mathematical Engineering** - *Politecnico di Torino, Italy*<br/>
 
 <br/>
 
